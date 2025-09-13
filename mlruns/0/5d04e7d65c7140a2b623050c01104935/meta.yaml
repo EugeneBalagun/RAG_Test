@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Projects/RAG_Test/mlruns/0/5d04e7d65c7140a2b623050c01104935/artifacts
+end_time: 1757802994922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d04e7d65c7140a2b623050c01104935
+run_name: useful-gull-850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757802994868
+status: 4
+tags: []
+user_id: balnc3r
